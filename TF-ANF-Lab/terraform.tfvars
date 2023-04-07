@@ -64,7 +64,7 @@ vm2_version          = "latest"
 #               Azure NetApp Files - Modify these parameters as required             #
 ######################################################################################
 cap_pool_tier     = "Standard"
-cap_pool_size     = "4"
+cap_pool_size     = "2"
 vol_path_nfs      = "nfs-vol"
 service_level_std = "Standard"
 protocol_nfs      = "NFSv3"
