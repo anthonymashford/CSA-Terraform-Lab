@@ -12,7 +12,7 @@ region_1 = "northeurope"
 # If you would like to use diferent regions change this setting
 region_2 = "westeurope"
 # Environment - Change this as required
-tag_environment = "Lab"
+tag_environment = "CSALab"
 # Created By - Change this as required
 tag_createdby = "Anthony"
 # Created With - Change this as required
@@ -64,7 +64,7 @@ vm2_version          = "latest"
 #               Azure NetApp Files - Modify these parameters as required             #
 ######################################################################################
 cap_pool_tier     = "Standard"
-cap_pool_size     = "2"
+cap_pool_size     = "4"
 vol_path_nfs      = "nfs-vol"
 service_level_std = "Standard"
 protocol_nfs      = "NFSv3"
