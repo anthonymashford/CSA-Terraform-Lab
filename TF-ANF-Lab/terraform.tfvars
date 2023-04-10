@@ -1,5 +1,5 @@
 ######################################################################################
-#                              (C) Mash'o'soft 2022                                  #
+#                              (C) Mash'o'soft 2023                                  #
 #                This file is used to define the variables for your lab              #
 #                  Modify these parameters to meet your requirements                 #
 ######################################################################################
