@@ -15,7 +15,7 @@ resource "azurerm_netapp_account" "anf_acc_1" {
     domain              = var.domain
     organizational_unit = var.ou
   }
-*/
+ */
   tags = {
     Environment = var.tag_environment
     CreatedBy   = var.tag_createdby
